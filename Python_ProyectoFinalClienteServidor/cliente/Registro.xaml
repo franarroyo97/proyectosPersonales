@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="cliente.Registro">
+    <ContentPage.Content>
+
+        <ScrollView>
+            <StackLayout x:Uid="pila">
+                
+                    <Label Text="paginaDeRegistro"
+                    VerticalOptions="CenterAndExpand" 
+                    HorizontalOptions="CenterAndExpand"
+                    FontSize="40"
+                       TextColor="#85C1E9"/>
+                    <Label Text="usuario"
+                    VerticalOptions="CenterAndExpand" 
+                    HorizontalOptions="CenterAndExpand" />
+                    <Entry x:Name="txtNuevoUsuario"/>
+
+                    <Label Text="Contraseña"
+                    VerticalOptions="CenterAndExpand" 
+                    HorizontalOptions="CenterAndExpand"
+                      />
+                    <Entry x:Name="txtNuevaContrasena"
+                       IsPassword="True"/>
+                    <Label Text="InformacionGeneral"/>
+                     <Entry x:Name="txtInformacion"
+                         Placeholder = "pon aqui algo sobre tu historia..." />
+
+            <Button x:Name="btnSubirImagen"
+                        Text="subirImagenPrincipal"/>
+                    <Image x:Name="imgSubir" />
+                    <Button x:Name="btnAceptar"
+                        Text="ok"
+                            />
+           
+        </StackLayout>
+        </ScrollView>
+
+    </ContentPage.Content>
+</ContentPage>

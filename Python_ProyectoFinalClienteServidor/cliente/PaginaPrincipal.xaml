@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<TabbedPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="cliente.PaginaPrincipal">
+  <!--Pages can be added as references or inline-->
+    <ContentPage Title="Mi Perfil" >
+        <AbsoluteLayout >
+            <Button  HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand"  x:Name="btnPerfil" BackgroundColor="Transparent" AbsoluteLayout.LayoutBounds=".0 ,.0,.25,.3 "  AbsoluteLayout.LayoutFlags="All" BorderRadius="1000"  >
+                
+            </Button>
+            <Label AbsoluteLayout.LayoutBounds=".7 ,.0,.6,.05 "   AbsoluteLayout.LayoutFlags="All" 
+                Text="mi historia:"  > </Label>
+            <Label AbsoluteLayout.LayoutBounds=".7 ,.05,.6,.25 "   AbsoluteLayout.LayoutFlags="All" 
+                Text="mi historia:" x:Name="txtHistoria" BackgroundColor="Azure"   ></Label>
+            <Button x:Name="btnPeticionesDeAmistad" Text="peticiones " AbsoluteLayout.LayoutBounds=".0 ,.4,.2,.1 "  AbsoluteLayout.LayoutFlags="All"></Button>
+            <Button x:Name="btnsubirFoto" Text="subir foto" AbsoluteLayout.LayoutBounds=".4 ,.4,.2,.1 "  AbsoluteLayout.LayoutFlags="All"></Button>
+            <ScrollView AbsoluteLayout.LayoutBounds="0 ,.8,1,.4 " AbsoluteLayout.LayoutFlags="All" Orientation="Horizontal">
+                <StackLayout x:Name="layoutCarruselDeImagenes" Orientation="Horizontal">
+                    
+                </StackLayout>
+            </ScrollView>
+        </AbsoluteLayout>
+      
+    </ContentPage>
+    <ContentPage Title="Mis Amigos" >
+        <ScrollView>
+            <StackLayout x:Name="layoutFotosDeMisAmigos">
+                
+            </StackLayout>
+        </ScrollView>
+    </ContentPage>
+    <ContentPage Title="Nuevos amigos" >
+        <StackLayout>
+            <ListView x:Name="ListViewUsuarios">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ImageCell ImageSource="{Binding imagen.Source}"
+                                           Text = "{Binding nombreDeUsuario}"
+                                        TextColor="Black"/>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+        </StackLayout>
+    </ContentPage>
+    <ContentPage Title="chat" >
+        <AbsoluteLayout>
+            
+                <AbsoluteLayout Margin="0,0,10,0" AbsoluteLayout.LayoutBounds=".0 ,.1,.7,1 " AbsoluteLayout.LayoutFlags="All">
+                    <ScrollView AbsoluteLayout.LayoutBounds=" 0,0,1,.9" AbsoluteLayout.LayoutFlags="All">
+                        <StackLayout x:Name="ventanaDeMensajes"   BackgroundColor="Red">
+
+                        </StackLayout>
+                    </ScrollView>
+                    <Entry x:Name="entradaChat"  AbsoluteLayout.LayoutBounds=" 0,1,1,.1" AbsoluteLayout.LayoutFlags="All"/>
+                </AbsoluteLayout>
+          
+            <ScrollView AbsoluteLayout.LayoutBounds="1 ,.0,.3,1" AbsoluteLayout.LayoutFlags="All"  BackgroundColor="Blue">
+                <StackLayout >
+                    <ListView x:Name="ListViewUsuariosConectados"  >
+                        <ListView.ItemTemplate>
+                            <DataTemplate>
+
+                                <ImageCell ImageSource="{Binding imagen.Source}"
+                                           Text = "{Binding nombreDeUsuario}"
+                                        TextColor="Black"/>
+                                
+                            </DataTemplate>
+                        </ListView.ItemTemplate>
+                    </ListView>
+                    
+                   
+                </StackLayout>
+            </ScrollView>
+
+        </AbsoluteLayout>
+        
+   
+    </ContentPage>
+
+
+</TabbedPage>

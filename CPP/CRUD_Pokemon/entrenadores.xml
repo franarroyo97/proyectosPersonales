@@ -1,0 +1,1046 @@
+<entrenadores>
+	<totalentrenadores> 11 </totalentrenadores>
+	<entrenador>
+		<id> 0 </id>
+		<login> julio </login>
+		<password> julio </password>
+		<monedero> 9999 </monedero>
+		<victorias> 5 </victorias>
+		<mochila>
+			<totalpokemonMochila> 3 </totalpokemonMochila>
+			<pokemon>
+   				<id> 1 </id>
+   				<name> BULBASAUR </name>
+   				<HP> 55 </HP>
+  				<ATK> 54 </ATK>
+  				<DEF> 56 </DEF>
+  				<SPD> 49 </SPD>
+				<nivel> 2 </nivel>
+				<nivelplanta> 1.5 </nivelplanta>
+				<habilidades>
+					<totalhabilidades> 1 </totalhabilidades>
+					<habilidad>
+						<id> 1 </id>
+						<nombre> Placaje </nombre>
+						<danio> 35 </danio>
+						<PP> 30 </PP>
+						<tipo> Normal </tipo>
+					</habilidad>
+				</habilidades>
+ 			</pokemon>
+ 			<pokemon>
+    			<id> 3 </id>
+    			<name> VENUSAUR </name>
+   				<HP> 140 </HP>
+   				<ATK> 102 </ATK>
+   				<DEF> 93 </DEF>
+   				<SPD> 84 </SPD>
+				<nivel> 5 </nivel>
+				<nivelplanta> 1.5 </nivelplanta>
+				<habilidades>
+					<totalhabilidades> 2 </totalhabilidades>
+					<habilidad>
+						<id> 1 </id>
+						<nombre> Placaje </nombre>
+						<danio> 35 </danio>
+						<PP> 30 </PP>
+						<tipo> Normal </tipo>
+					</habilidad>
+					<habilidad>
+						<id> 2 </id>
+						<nombre> Drenadoras </nombre>
+						<danio> 15 </danio>
+						<PP> 30 </PP>
+						<tipo> Planta </tipo>
+					</habilidad>
+				</habilidades>
+ 			</pokemon>
+			<pokemon>
+    			<id> 7 </id>
+   				<name> SQUIRTLE </name>
+  				<HP> 54 </HP>
+  				<ATK> 68 </ATK>
+ 				<DEF> 69 </DEF>
+ 				<SPD> 49 </SPD>
+				<nivel> 3 </nivel>
+				<nivelagua> 2 </nivelagua>
+				<habilidades>
+					<totalhabilidades> 2 </totalhabilidades>
+					<habilidad>
+						<id> 1 </id>
+						<nombre> Placaje </nombre>
+						<danio> 35 </danio>
+						<PP> 30 </PP>
+						<tipo> Normal </tipo>
+					</habilidad>
+					<habilidad>
+						<id> 4 </id>
+						<nombre> PistolaAgua </nombre>
+						<danio> 50 </danio>
+						<PP> 20 </PP>
+						<tipo> Agua </tipo>
+					</habilidad>
+				</habilidades>
+ 			</pokemon>
+		</mochila>
+	</entrenador>
+	<entrenador>
+		<id> 1 </id>
+		<login> david </login>
+		<password> david </password>
+		<monedero> 9999 </monedero>
+		<victorias> 5 </victorias>
+		<mochila>
+			<totalpokemonMochila> 3 </totalpokemonMochila>
+			<pokemon>
+   				<id> 1 </id>
+   				<name> BULBASAUR </name>
+   				<HP> 55 </HP>
+  				<ATK> 54 </ATK>
+  				<DEF> 56 </DEF>
+  				<SPD> 49 </SPD>
+				<nivel> 2 </nivel>
+				<nivelplanta> 1.5 </nivelplanta>
+				<habilidades>
+					<totalhabilidades> 1 </totalhabilidades>
+					<habilidad>
+						<id> 1 </id>
+						<nombre> Placaje </nombre>
+						<danio> 35 </danio>
+						<PP> 30 </PP>
+						<tipo> Normal </tipo>
+					</habilidad>
+				</habilidades>
+ 			</pokemon>
+ 			<pokemon>
+    			<id> 3 </id>
+    			<name> VENUSAUR </name>
+   				<HP> 140 </HP>
+   				<ATK> 102 </ATK>
+   				<DEF> 93 </DEF>
+   				<SPD> 84 </SPD>
+				<nivel> 5 </nivel>
+				<nivelplanta> 1.5 </nivelplanta>
+				<habilidades>
+					<totalhabilidades> 2 </totalhabilidades>
+					<habilidad>
+						<id> 1 </id>
+						<nombre> Placaje </nombre>
+						<danio> 35 </danio>
+						<PP> 30 </PP>
+						<tipo> Normal </tipo>
+					</habilidad>
+					<habilidad>
+						<id> 2 </id>
+						<nombre> Drenadoras </nombre>
+						<danio> 15 </danio>
+						<PP> 30 </PP>
+						<tipo> Planta </tipo>
+					</habilidad>
+				</habilidades>
+ 			</pokemon>
+			<pokemon>
+    			<id> 7 </id>
+   				<name> SQUIRTLE </name>
+  				<HP> 54 </HP>
+  				<ATK> 68 </ATK>
+ 				<DEF> 69 </DEF>
+ 				<SPD> 49 </SPD>
+				<nivel> 3 </nivel>
+				<nivelagua> 2 </nivelagua>
+				<habilidades>
+					<totalhabilidades> 2 </totalhabilidades>
+					<habilidad>
+						<id> 1 </id>
+						<nombre> Placaje </nombre>
+						<danio> 35 </danio>
+						<PP> 30 </PP>
+						<tipo> Normal </tipo>
+					</habilidad>
+					<habilidad>
+						<id> 4 </id>
+						<nombre> PistolaAgua </nombre>
+						<danio> 50 </danio>
+						<PP> 20 </PP>
+						<tipo> Agua </tipo>
+					</habilidad>
+				</habilidades>
+ 			</pokemon>
+		</mochila>
+	</entrenador>
+	<entrenador>
+		<id> 2 </id>
+		<login> Maikel </login>
+		<password> Maikel </password>
+		<monedero> 999999 </monedero>
+		<victorias> 10 </victorias>
+			<mochila>
+			<totalpokemonMochila> 3 </totalpokemonMochila>
+			<pokemon>
+			    <id> 5 </id>
+			    <name> CHARMELEON </name>
+			    <HP> 58 </HP>
+			    <ATK> 64 </ATK>
+			    <DEF> 58 </DEF>
+			    <SPD> 80 </SPD>
+			    <nivel> 1 </nivel>
+			    <nivelfuego> 2 </nivelfuego>
+				<habilidades>
+					<totalhabilidades> 4 </totalhabilidades>
+					<habilidad>
+						<id> 660 </id>
+						<nombre> Sofoco </nombre>
+						<danio> 140  </danio>
+						<PP> 5 </PP>
+						<tipo> Fuego </tipo>
+					</habilidad>	
+					<habilidad>
+						<id> 661 </id>
+						<nombre> BombaIgnea </nombre>
+						<danio> 100 </danio>
+						<PP> 5 </PP>
+						<tipo> Fuego </tipo>
+					</habilidad>		
+					<habilidad>
+						<id> 662 </id>
+						<nombre> LlamaAzul </nombre>
+						<danio> 130 </danio>
+						<PP> 5 </PP>
+						<tipo> Fuego </tipo>
+					</habilidad>
+					<habilidad>
+						<id> 663 </id>
+						<nombre> Lanzallamas </nombre>
+						<danio> 80 </danio>
+						<PP> 15 </PP>
+						<tipo> Fuego </tipo>
+					</habilidad>
+				</habilidades>
+ 			</pokemon>
+			<pokemon>
+    			<id> 3 </id>
+    			<name> VENUSAUR </name>
+   				<HP> 140 </HP>
+   				<ATK> 102 </ATK>
+   				<DEF> 93 </DEF>
+   				<SPD> 84 </SPD>
+				<nivel> 5 </nivel>
+				<nivelplanta> 1.5 </nivelplanta>
+				<habilidades>
+					<totalhabilidades> 4 </totalhabilidades>
+					<habilidad>
+						<id> 440 </id>
+						<nombre> Lluevehojas </nombre>
+						<danio> 140 </danio>
+						<PP> 5 </PP>
+						<tipo> Planta </tipo>
+					</habilidad>		
+					<habilidad>
+						<id> 441 </id>
+						<nombre> PlantaFeroz </nombre>
+						<danio> 140 </danio>
+						<PP> 5 </PP>
+						<tipo> Planta </tipo>
+					</habilidad>
+					<habilidad>
+						<id> 442 </id>
+						<nombre> Latigazo </nombre>
+						<danio> 120 </danio>
+						<PP> 5 </PP>
+						<tipo> Planta </tipo>
+					</habilidad>
+					<habilidad>
+						<id> 443 </id>
+						<nombre> HojaAguda </nombre>
+						<danio> 90 </danio>
+						<PP> 15 </PP>
+						<tipo> Planta </tipo>
+					</habilidad>
+				</habilidades>
+ 			</pokemon>
+			<pokemon>
+    			<id> 10 </id>
+			    <name> GYARADOS </name>
+			    <HP> 106 </HP>
+			    <ATK> 110 </ATK>
+			    <DEF> 90 </DEF>
+			    <SPD> 130 </SPD>
+			    <nivel> 1 </nivel>
+			    <nivelagua> 2 </nivelagua>
+				<habilidades>
+				<totalhabilidades> 4 </totalhabilidades>
+					<habilidad>
+						<id> 550 </id>
+						<nombre> Salpicar </nombre>
+						<danio> 140 </danio>
+						<PP> 5 </PP>
+						<tipo> Agua </tipo>
+					</habilidad>
+					<habilidad>
+						<id> 551 </id>
+						<nombre> Hidrocañon </nombre>
+						<danio> 150 </danio>
+						<PP> 5 </PP>
+						<tipo> Agua </tipo>
+					</habilidad>
+					<habilidad>
+						<id> 552 </id>
+						<nombre> Hidrobomba </nombre>
+						<danio> 120 </danio>
+						<PP> 5 </PP>
+						<tipo> Agua </tipo>
+					</habilidad>
+					<habilidad>
+						<id> 553 </id>
+						<nombre> Surf </nombre>
+						<danio> 190 </danio>
+						<PP> 15 </PP>
+						<tipo> Agua </tipo>
+					</habilidad>
+				</habilidades>
+ 			</pokemon>
+		</mochila>
+	</entrenador>
+	<entrenador>
+		<id> 3 </id>
+		<login> jaime </login>
+		<password> jaime </password>
+		<monedero> 8000 </monedero>
+		<victorias> 6 </victorias>
+		<mochila>
+			<totalpokemonMochila> 3 </totalpokemonMochila>
+			<pokemon>
+   				<id> 3 </id>
+   				<name> VENUSAUR </name>
+   				<HP> 100 </HP>
+  				<ATK> 60 </ATK>
+  				<DEF> 56 </DEF>
+  				<SPD> 35 </SPD>
+				<nivel> 36 </nivel>
+				<nivelplanta> 1.2 </nivelplanta>
+				<habilidades>
+					<totalhabilidades> 2 </totalhabilidades>
+					<habilidad>
+						<id> 1 </id>
+						<nombre> Placaje </nombre>
+						<danio> 35 </danio>
+						<PP> 30 </PP>
+						<tipo> Normal </tipo>
+					</habilidad>
+					<habilidad>
+						<id> 2 </id>
+						<nombre> Drenadoras </nombre>
+						<danio> 15 </danio>
+						<PP> 30 </PP>
+						<tipo> Plantas </tipo>
+					</habilidad>
+				</habilidades>
+ 			</pokemon>
+			<pokemon>
+   				<id> 6 </id>
+   				<name> CHARIZARD </name>
+   				<HP> 100 </HP>
+  				<ATK> 80 </ATK>
+  				<DEF> 35 </DEF>
+  				<SPD> 60 </SPD>
+				<nivel> 36 </nivel>
+				<nivelfuego> 1 </nivelfuego>
+				<habilidades>
+					<totalhabilidades> 2 </totalhabilidades>
+					<habilidad>
+						<id> 1 </id>
+						<nombre> Placaje </nombre>
+						<danio> 35 </danio>
+						<PP> 30 </PP>
+						<tipo> Normal </tipo>
+					</habilidad>
+					<habilidad>
+						<id> 3 </id>
+						<nombre> Ascuas </nombre>
+						<danio> 50 </danio>
+						<PP> 20 </PP>
+						<tipo> Fuego </tipo>
+					</habilidad>
+				</habilidades>
+ 			</pokemon>
+			<pokemon>
+   				<id> 9 </id>
+   				<name> BLASTOISE </name>
+   				<HP> 100 </HP>
+  				<ATK> 55 </ATK>
+  				<DEF> 64 </DEF>
+  				<SPD> 40 </SPD>
+				<nivel> 36 </nivel>
+				<nivelagua> 2 </nivelagua>
+				<habilidades>
+					<totalhabilidades> 2 </totalhabilidades>
+						<habilidad>
+						<id> 1 </id>
+						<nombre> Placaje </nombre>
+						<danio> 35 </danio>
+						<PP> 30 </PP>
+						<tipo> Normal </tipo>
+					</habilidad>
+					<habilidad>
+						<id> 4 </id>
+						<nombre> PistolaAgua </nombre>
+						<danio> 50 </danio>
+						<PP> 20 </PP>
+						<tipo> Agua </tipo>
+					</habilidad>
+				</habilidades>
+ 			</pokemon>
+		</mochila>
+	</entrenador>
+	<entrenador>
+		<id> 4 </id>
+		<login> Alex </login>
+		<password> Alex </password>
+		<monedero> 9999 </monedero>
+		<victorias> 3 </victorias>
+		<mochila>
+			<totalpokemonMochila> 3 </totalpokemonMochila> 
+			<pokemon>
+	   			<id> 1 </id>
+	   			<name> BULBASAUR </name>
+	  			<HP> 55 </HP>
+	  			<ATK> 54 </ATK>
+	  			<DEF> 56 </DEF>
+	  			<SPD> 49 </SPD>
+				<nivel> 2 </nivel>
+				<nivelplanta> 2 </nivelplanta>
+				<habilidades>
+					<totalhabilidades> 2 </totalhabilidades>
+					<habilidad>
+						<id> 1 </id>
+						<nombre> Placaje </nombre>
+						<danio> 35 </danio>
+						<PP> 30 </PP>
+						<tipo> Normal </tipo>
+					</habilidad>
+					<habilidad>
+						<id> 2 </id>
+						<nombre> Drenadoras </nombre>
+						<danio> 15 </danio>
+						<PP> 30 </PP>
+						<tipo> Planta </tipo>
+					</habilidad>
+				</habilidades>
+	 		 </pokemon>
+	 		 <pokemon>
+				<id> 4 </id>
+	  			<name> CHARMANDER </name>
+	   			<HP> 39 </HP>
+	   			<ATK> 52 </ATK>
+	  			<DEF> 43 </DEF>
+	   			<SPD> 65 </SPD>
+	  			<nivel> 1 </nivel>
+	   			<nivelfuego> 1.4 </nivelfuego>
+				<habilidades>
+					<totalhabilidades> 2 </totalhabilidades>
+					<habilidad>
+						<id> 1 </id>
+						<nombre> Placaje </nombre>
+						<danio> 35 </danio>
+						<PP> 30 </PP>
+						<tipo> Normal </tipo>
+					</habilidad>
+					<habilidad>
+						<id> 3 </id>
+						<nombre> Ascuas </nombre>
+						<danio> 50 </danio>
+						<PP> 20 </PP>
+						<tipo> Fuego </tipo>
+					</habilidad>
+				</habilidades>
+	 		</pokemon>
+			<pokemon>
+	 			<id> 9 </id>
+	  			<name> BLASTOISE </name>
+	    		<HP> 79 </HP>
+	    		<ATK> 83 </ATK>
+	    		<DEF> 100 </DEF>
+	   			<SPD> 78 </SPD>
+	    		<nivel> 1 </nivel>
+	    		<nivelagua> 1.3 </nivelagua>
+				<habilidades>
+					<totalhabilidades> 2 </totalhabilidades>
+					<habilidad>
+						<id> 1 </id>
+						<nombre> Placaje </nombre>
+						<danio> 35 </danio>
+						<PP> 30 </PP>
+						<tipo> Normal </tipo>
+					</habilidad>
+					<habilidad>
+						<id> 4 </id>
+						<nombre> PistolaAgua </nombre>
+						<danio> 50 </danio>
+						<PP> 20 </PP>
+						<tipo> Agua </tipo>
+					</habilidad>
+				</habilidades>
+	 		</pokemon>
+		</mochila>
+	</entrenador>
+	<entrenador>
+		<id> 5 </id>
+		<login> alberto </login>
+		<password> alberto </password>
+		<monedero> 9999 </monedero>
+		<victorias> 2 </victorias>
+		<mochila>
+			<totalpokemonMochila> 2 </totalpokemonMochila>
+			<pokemon>
+   				<id> 1 </id>
+   				<name> BULBASAUR </name>
+   				<HP> 55 </HP>
+  				<ATK> 54 </ATK>
+  				<DEF> 56 </DEF>
+  				<SPD> 49 </SPD>
+				<nivel> 2 </nivel>
+				<nivelplanta> 1.8 </nivelplanta>
+				<habilidades>
+					<totalhabilidades> 1 </totalhabilidades>
+					<habilidad>
+						<id> 1 </id>
+						<nombre> Placaje </nombre>
+						<danio> 35 </danio>
+						<PP> 30 </PP>
+						<tipo> Normal </tipo>
+					</habilidad>
+				</habilidades>
+ 			</pokemon>
+ 			<pokemon>
+    			<id> 3 </id>
+    			<name> VENUSAUR </name>
+   				<HP> 140 </HP>
+   				<ATK> 102 </ATK>
+   				<DEF> 93 </DEF>
+   				<SPD> 84 </SPD>
+				<nivel> 5 </nivel>
+				<nivelplanta> 2 </nivelplanta>
+				<habilidades>
+					<totalhabilidades> 2 </totalhabilidades>
+					<habilidad>
+						<id> 4 </id>
+						<nombre> PistolaAgua </nombre>
+						<danio> 50 </danio>
+						<PP> 20 </PP>
+						<tipo> Agua </tipo>
+					</habilidad>
+					<habilidad>
+						<id> 2 </id>
+						<nombre> Drenadoras </nombre>
+						<danio> 15 </danio>
+						<PP> 30 </PP>
+						<tipo> Planta </tipo>
+					</habilidad>
+				</habilidades>
+ 			</pokemon>
+		</mochila>
+	</entrenador>
+	<entrenador>
+		<id> 6 </id>
+		<login> juan </login>
+		<password> juan </password>
+		<monedero> 9999 </monedero>
+		<victorias> 2 </victorias>
+		<mochila>
+			<totalpokemonMochila> 2 </totalpokemonMochila>
+			<pokemon>
+   				<id> 1 </id>
+   				<name> BULBASAUR </name>
+   				<HP> 55 </HP>
+  				<ATK> 64 </ATK>
+  				<DEF> 96 </DEF>
+  				<SPD> 39 </SPD>
+				<nivel> 4 </nivel>
+				<nivelplanta> 1.7 </nivelplanta>
+				<habilidades>
+					<totalhabilidades> 1 </totalhabilidades>
+					<habilidad>
+						<id> 1 </id>
+						<nombre> Placaje </nombre>
+						<danio> 35 </danio>
+						<PP> 30 </PP>
+						<tipo> Normal </tipo>
+					</habilidad>
+				</habilidades>
+ 			</pokemon>
+			<pokemon>
+    			<id> 7 </id>
+   				<name> SQUIRTLE </name>
+  				<HP> 74 </HP>
+  				<ATK> 78 </ATK>
+ 				<DEF> 69 </DEF>
+ 				<SPD> 29 </SPD>
+				<nivel> 6 </nivel>
+				<nivelagua> 1.2 </nivelagua>
+				<habilidades>
+				<totalhabilidades> 2 </totalhabilidades>
+					<habilidad>
+						<id> 1 </id>
+						<nombre> Placaje </nombre>
+						<danio> 35 </danio>
+						<PP> 30 </PP>
+						<tipo> Normal </tipo>
+					</habilidad>
+					<habilidad>
+						<id> 4 </id>
+						<nombre> PistolaAgua </nombre>
+						<danio> 50 </danio>
+						<PP> 20 </PP>
+						<tipo> Agua </tipo>
+					</habilidad>
+				</habilidades>
+ 			 </pokemon>
+		</mochila>
+	</entrenador>
+	<entrenador>
+		<id> 7 </id>
+		<login> juanma </login>
+		<password> juanma </password>
+		<monedero> 9999 </monedero>
+		<victorias> 4 </victorias>
+		<mochila>
+			<totalpokemonMochila> 4 </totalpokemonMochila>
+			<pokemon>
+   				<id> 1 </id>
+   				<name> BULBASAUR </name>
+   				<HP> 55 </HP>
+  				<ATK> 54 </ATK>
+  				<DEF> 56 </DEF>
+  				<SPD> 49 </SPD>
+				<nivel> 2 </nivel>
+				<nivelplanta> 1.1 </nivelplanta>
+				<habilidades>
+					<totalhabilidades> 2 </totalhabilidades>
+					<habilidad>
+						<id> 1 </id>
+						<nombre> Placaje </nombre>
+						<danio> 35 </danio>
+						<PP> 30 </PP>
+						<tipo> Normal </tipo>
+					</habilidad>
+					<habilidad>
+						<id> 2 </id>
+						<nombre> Drenadoras </nombre>
+						<danio> 15 </danio>
+						<PP> 30 </PP>
+						<tipo> Planta </tipo>
+					</habilidad>
+				</habilidades>
+ 			</pokemon>
+ 			<pokemon>
+    			<id> 3 </id>
+    			<name> VENUSAUR </name>
+   				<HP> 140 </HP>
+   				<ATK> 102 </ATK>
+   				<DEF> 93 </DEF>
+   				<SPD> 84 </SPD>
+				<nivel> 5 </nivel>
+				<nivelplanta> 1.2 </nivelplanta>
+				<habilidades>
+					<totalhabilidades> 2 </totalhabilidades>
+					<habilidad>
+						<id> 1 </id>
+						<nombre> Placaje </nombre>
+						<danio> 35 </danio>
+						<PP> 30 </PP>
+						<tipo> Normal </tipo>
+					</habilidad>
+					<habilidad>
+						<id> 2 </id>
+						<nombre> Drenadoras </nombre>
+						<danio> 15 </danio>
+						<PP> 30 </PP>
+						<tipo> Planta </tipo>
+					</habilidad>
+				</habilidades>
+ 			</pokemon>
+			<pokemon>
+    			<id> 7 </id>
+   				<name> SQUIRTLE </name>
+  				<HP> 54 </HP>
+  				<ATK> 68 </ATK>
+ 				<DEF> 69 </DEF>
+ 				<SPD> 49 </SPD>
+				<nivel> 3 </nivel>
+				<nivelagua> 1.1 </nivelagua>
+				<habilidades>
+				<totalhabilidades> 2 </totalhabilidades>
+					<habilidad>
+						<id> 1 </id>
+						<nombre> Placaje </nombre>
+						<danio> 35 </danio>
+						<PP> 30 </PP>
+						<tipo> Normal </tipo>
+					</habilidad>
+					<habilidad>
+						<id> 4 </id>
+						<nombre> PistolaAgua </nombre>
+						<danio> 50 </danio>
+						<PP> 20 </PP>
+						<tipo> Agua </tipo>
+					</habilidad>
+				</habilidades>
+ 			</pokemon>
+  			<pokemon>
+   				<id> 6 </id>
+    				<name> CHARIZARD </name>
+    				<HP> 78 </HP>
+    				<ATK> 84 </ATK>
+    				<DEF> 78 </DEF>
+    				<SPD> 100 </SPD>
+    				<nivel> 1 </nivel>
+    				<nivelfuego> 1.1 </nivelfuego>
+				<habilidades>
+					<totalhabilidades> 1 </totalhabilidades>
+					<habilidad>
+						<id> 1 </id>
+						<nombre> Placaje </nombre>
+						<danio> 35 </danio>
+						<PP> 30 </PP>
+						<tipo> Normal </tipo>
+					</habilidad>
+				</habilidades>
+ 			</pokemon>	
+		</mochila>
+	</entrenador>
+	<entrenador>
+		<id> 8 </id>
+		<login> alexc </login>
+		<password> alexc </password>
+		<monedero> 13337 </monedero>
+		<victorias> 6 </victorias>
+		<mochila>
+			<totalpokemonMochila> 3 </totalpokemonMochila>
+			<pokemon>
+   				<id> 6 </id>
+   				<name> CHARIZARD </name>
+   				<HP> 360 </HP>
+  				<ATK> 293 </ATK>
+  				<DEF> 280 </DEF>
+  				<SPD> 328 </SPD>
+				<nivel> 100 </nivel>
+				<nivelplanta> 2 </nivelplanta>
+				<habilidades>
+					<totalhabilidades> 4 </totalhabilidades>
+					<habilidad>
+						<id> 87 </id>
+						<nombre> Lanzallamas </nombre>
+						<danio> 90 </danio>
+						<PP> 30 </PP>
+						<tipo> Fuego </tipo>
+					</habilidad>
+					<habilidad>
+						<id> 77 </id>
+						<nombre> EnviteIgneo </nombre>
+						<danio> 120 </danio>
+						<PP> 30 </PP>
+						<tipo> Fuego </tipo>
+					</habilidad>
+					<habilidad>
+						<id> 57 </id>
+						<nombre> OndaIgnea </nombre>
+						<danio> 95 </danio>
+						<PP> 30 </PP>
+						<tipo> Fuego </tipo>
+					</habilidad>
+					<habilidad>
+						<id> 27 </id>
+						<nombre> ColmilloIgneo </nombre>
+						<danio> 70 </danio>
+						<PP> 30 </PP>
+						<tipo> Fuego </tipo>
+					</habilidad>
+				</habilidades>
+ 			 </pokemon>
+ 			 <pokemon>
+    			<id> 3 </id>
+    			<name> VENUSAUR </name>
+   				<HP> 140 </HP>
+   				<ATK> 102 </ATK>
+   				<DEF> 93 </DEF>
+   				<SPD> 84 </SPD>
+				<nivel> 5 </nivel>
+				<nivelplanta> 1.2 </nivelplanta>
+				<habilidades>
+					<totalhabilidades> 2 </totalhabilidades>
+					<habilidad>
+						<id> 1 </id>
+						<nombre> Mazazo </nombre>
+						<danio> 130 </danio>
+						<PP> 30 </PP>
+						<tipo> Planta </tipo>
+					</habilidad>
+					<habilidad>
+						<id> 2 </id>
+						<nombre> Lluevehojas </nombre>
+						<danio> 130 </danio>
+						<PP> 30 </PP>
+						<tipo> Planta </tipo>
+					</habilidad>
+	
+				</habilidades>
+ 			</pokemon>
+			<pokemon>
+    			<id> 7 </id>
+   				<name> SQUIRTLE </name>
+  				<HP> 54 </HP>
+  				<ATK> 68 </ATK>
+ 				<DEF> 69 </DEF>
+ 				<SPD> 49 </SPD>
+				<nivel> 3 </nivel>
+				<nivelagua> 1.8 </nivelagua>
+				<habilidades>
+				<totalhabilidades> 2 </totalhabilidades>
+					<habilidad>
+						<id> 11 </id>
+						<nombre> Hidrobomba </nombre>
+						<danio> 110 </danio>
+						<PP> 30 </PP>
+						<tipo> Agua </tipo>
+					</habilidad>
+					<habilidad>
+						<id> 4 </id>
+						<nombre> PistolaAgua </nombre>
+						<danio> 50 </danio>
+						<PP> 20 </PP>
+						<tipo> Agua </tipo>
+					</habilidad>
+				</habilidades>
+ 			 </pokemon>
+		</mochila>
+	</entrenador>
+	<entrenador>
+		<id> 9 </id>
+		<login> dani </login>
+		<password> dani </password>
+		<monedero> 9999 </monedero>
+		<victorias> 4 </victorias>
+		<mochila>
+			<totalpokemonMochila> 3 </totalpokemonMochila>
+			<pokemon>
+   				<id> 1 </id>
+   				<name> BULBASAUR </name>
+   				<HP> 40 </HP>
+  				<ATK> 50 </ATK>
+  				<DEF> 50 </DEF>
+  				<SPD> 40 </SPD>
+				<nivel> 1 </nivel>
+				<nivelplanta> 2 </nivelplanta>
+				<habilidades>
+				<totalhabilidades> 1 </totalhabilidades>
+					<habilidad>
+						<id> 1 </id>
+						<nombre> Placaje </nombre>
+						<danio> 35 </danio>
+						<PP> 30 </PP>
+						<tipo> Normal </tipo>
+					</habilidad>
+				</habilidades>
+ 			</pokemon>
+ 			<pokemon>
+    			<id> 3 </id>
+    			<name> VENUSAUR </name>
+   				<HP> 200 </HP>
+   				<ATK> 150 </ATK>
+   				<DEF> 400 </DEF>
+   				<SPD> 84 </SPD>
+				<nivel> 6 </nivel>
+				<nivelplanta> 1.3 </nivelplanta>
+				<habilidades>
+					<totalhabilidades> 2 </totalhabilidades>
+					<habilidad>
+						<id> 1 </id>
+						<nombre> Placaje </nombre>
+						<danio> 50 </danio>
+						<PP> 30 </PP>
+						<tipo> Normal </tipo>
+					</habilidad>
+					<habilidad>
+						<id> 2 </id>
+						<nombre> RayoSolar </nombre>
+						<danio> 500 </danio>
+						<PP> 10 </PP>
+						<tipo> Planta </tipo>
+					</habilidad>
+				</habilidades>
+ 			 </pokemon>
+			 <pokemon>
+    			<id> 7 </id>
+   				<name> SQUIRTLE </name>
+  				<HP> 54 </HP>
+  				<ATK> 68 </ATK>
+ 				<DEF> 69 </DEF>
+ 				<SPD> 49 </SPD>
+				<nivel> 3 </nivel>
+				<nivelagua> 2 </nivelagua>
+				<habilidades>
+				<totalhabilidades> 2 </totalhabilidades>
+					<habilidad>
+						<id> 1 </id>
+						<nombre> Placaje </nombre>
+						<danio> 35 </danio>
+						<PP> 30 </PP>
+						<tipo> Normal </tipo>
+					</habilidad>
+					<habilidad>
+						<id> 4 </id>
+						<nombre> HidroPulso </nombre>
+						<danio> 100 </danio>
+						<PP> 10 </PP>
+						<tipo> Agua </tipo>
+					</habilidad>
+				</habilidades>
+ 			</pokemon>
+		</mochila>
+	</entrenador>
+	<entrenador>
+		<id> 10 </id>
+		<login> alexb </login>
+		<password> alexb </password>
+		<monedero> 10000 </monedero>
+		<victorias> 5 </victorias>
+		<mochila>
+			<totalpokemonMochila> 5 </totalpokemonMochila>
+			<pokemon>
+			    <id> 6 </id>
+			    <name> CHARIZARD </name>
+			    <HP> 78 </HP>
+			    <ATK> 84 </ATK>
+			    <DEF> 78 </DEF>
+			    <SPD> 100 </SPD>
+			    <nivel> 1 </nivel>
+			    <nivelfuego> 1.1 </nivelfuego>
+				<habilidades>
+					<totalhabilidades> 2 </totalhabilidades>
+					<habilidad>
+						<id> 1 </id>
+						<nombre> Placaje </nombre>
+						<danio> 35 </danio>
+						<PP> 30 </PP>
+						<tipo> Normal </tipo>
+					</habilidad>
+					<habilidad>
+						<id> 3 </id>
+						<nombre> Ascuas </nombre>
+						<danio> 50 </danio>
+						<PP> 20 </PP>
+						<tipo> Fuego </tipo>
+					</habilidad>
+				</habilidades>
+ 			</pokemon>
+ 			<pokemon>
+    			<id> 10 </id>
+			    <name> GYARADOS </name>
+			    <HP> 106 </HP>
+			    <ATK> 110 </ATK>
+			    <DEF> 90 </DEF>
+			    <SPD> 130 </SPD>
+			    <nivel> 1 </nivel>
+			    <nivelagua> 1.1 </nivelagua>
+				<habilidades>
+					<totalhabilidades> 2 </totalhabilidades>
+					<habilidad>
+						<id> 1 </id>
+						<nombre> Placaje </nombre>
+						<danio> 35 </danio>
+						<PP> 30 </PP>
+						<tipo> Normal </tipo>
+					</habilidad>
+					<habilidad>
+						<id> 4 </id>
+						<nombre> PistolaAgua </nombre>
+						<danio> 50 </danio>
+						<PP> 20 </PP>
+						<tipo> Agua </tipo>
+					</habilidad>
+				</habilidades>
+ 			</pokemon>
+			<pokemon>
+			    <id> 1 </id>
+			    <name> BULBASAUR </name>
+			    <HP> 45 </HP>
+			    <ATK> 49 </ATK>
+			    <DEF> 49 </DEF>
+			    <SPD> 45 </SPD>
+			    <nivel> 1 </nivel>
+			    <nivelplanta> 1.1 </nivelplanta>
+				<habilidades>
+					<totalhabilidades> 2 </totalhabilidades>
+					<habilidad>
+						<id> 1 </id>
+						<nombre> Placaje </nombre>
+						<danio> 35 </danio>
+						<PP> 30 </PP>
+						<tipo> Normal </tipo>
+					</habilidad>
+					<habilidad>
+						<id> 2 </id>
+						<nombre> Drenadoras </nombre>
+						<danio> 15 </danio>
+						<PP> 30 </PP>
+						<tipo> Planta </tipo>
+					</habilidad>
+				</habilidades>	
+			</pokemon>		
+			<pokemon>
+			    <id> 9 </id>
+			    <name> BLASTOISE </name>
+			    <HP> 79 </HP>
+			    <ATK> 83 </ATK>
+			    <DEF> 100 </DEF>
+			    <SPD> 78 </SPD>
+			    <nivel> 1 </nivel>
+			    <nivelagua> 1.1 </nivelagua>
+				<habilidades>
+					<totalhabilidades> 2 </totalhabilidades>
+					<habilidad>
+						<id> 1 </id>
+						<nombre> Placaje </nombre>
+						<danio> 35 </danio>
+						<PP> 30 </PP>
+						<tipo> Normal </tipo>
+					</habilidad>
+					<habilidad>
+						<id> 4 </id>
+						<nombre> PistolaAgua </nombre>
+						<danio> 50 </danio>
+						<PP> 20 </PP>
+						<tipo> Agua </tipo>
+					</habilidad>
+				</habilidades>
+			</pokemon>			
+			<pokemon>
+			    <id> 4 </id>
+			    <name> CHARMANDER </name>
+			    <HP> 39 </HP>
+			    <ATK> 52 </ATK>
+			    <DEF> 43 </DEF>
+			    <SPD> 65 </SPD>
+			    <nivel> 1 </nivel>
+			    <nivelfuego> 2 </nivelfuego>
+				<habilidades>
+					<totalhabilidades> 2 </totalhabilidades>
+					<habilidad>
+						<id> 1 </id>
+						<nombre> Placaje </nombre>
+						<danio> 35 </danio>
+						<PP> 30 </PP>
+						<tipo> Normal </tipo>
+					</habilidad>
+					<habilidad>
+						<id> 3 </id>
+						<nombre> Ascuas </nombre>
+						<danio> 50 </danio>
+						<PP> 20 </PP>
+						<tipo> Fuego </tipo>
+					</habilidad>
+				</habilidades>
+			</pokemon>
+		</mochila>
+	</entrenador>
+</entrenadores>

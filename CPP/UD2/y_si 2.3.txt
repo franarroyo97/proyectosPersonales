@@ -1,0 +1,1 @@
+como no he tenido en cuenta que 0%2 = 0 no se cumpliria ningua de las condiciones y no saldria nada por pantalla

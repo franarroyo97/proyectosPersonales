@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="cliente.detallefoto">
+    <ContentPage.Content>
+        <AbsoluteLayout>
+            
+                <Image x:Name="ImgimagenPrincipal"  HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand" BackgroundColor="Black" Aspect="Fill" AbsoluteLayout.LayoutBounds="0 ,0,.5,.6 " AbsoluteLayout.LayoutFlags="All"></Image>
+                <Entry TextColor="Black" x:Name="entCometario" VerticalOptions="FillAndExpand"  AbsoluteLayout.LayoutBounds=".701 ,0,.3,.6 " AbsoluteLayout.LayoutFlags="All"/>
+                <Button x:Name="like" AbsoluteLayout.LayoutBounds=".95 ,0,.1,.1 " AbsoluteLayout.LayoutFlags="All" Text="+1"></Button>
+                <Button x:Name="dislike" AbsoluteLayout.LayoutBounds=".95 ,.5,.1,.1 " AbsoluteLayout.LayoutFlags="All" Text="-1"></Button>
+            <Label x:Name="txtNumeroDeBotos" Text="¡bota par ver los puntos!" AbsoluteLayout.LayoutBounds=".95 ,.3,.1,.3 " AbsoluteLayout.LayoutFlags="All" ></Label>
+            <StackLayout x:Name="lyComentarios"  AbsoluteLayout.LayoutBounds="0 ,1,1,.4 " AbsoluteLayout.LayoutFlags="All" >
+                
+            </StackLayout>
+        </AbsoluteLayout>
+    </ContentPage.Content>
+</ContentPage>
